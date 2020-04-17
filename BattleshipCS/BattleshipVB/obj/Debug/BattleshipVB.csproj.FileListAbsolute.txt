@@ -1,0 +1,9 @@
+C:\Users\Robin Beer\Desktop\BattleshipVB\BattleshipVB\obj\Debug\BattleshipVB.csprojAssemblyReference.cache
+C:\Users\Robin Beer\Desktop\BattleshipVB\BattleshipVB\obj\Debug\BattleshipVB.csproj.CoreCompileInputs.cache
+C:\Users\Robin Beer\Desktop\BattleshipVB\BattleshipVB\bin\Debug\BattleshipVB.exe.config
+C:\Users\Robin Beer\Desktop\BattleshipVB\BattleshipVB\bin\Debug\BattleshipVB.exe
+C:\Users\Robin Beer\Desktop\BattleshipVB\BattleshipVB\bin\Debug\BattleshipVB.pdb
+C:\Users\Robin Beer\Desktop\BattleshipVB\BattleshipVB\bin\Debug\SwinGame.dll
+C:\Users\Robin Beer\Desktop\BattleshipVB\BattleshipVB\obj\Debug\BattleshipVB.csproj.CopyComplete
+C:\Users\Robin Beer\Desktop\BattleshipVB\BattleshipVB\obj\Debug\BattleshipVB.exe
+C:\Users\Robin Beer\Desktop\BattleshipVB\BattleshipVB\obj\Debug\BattleshipVB.pdb
