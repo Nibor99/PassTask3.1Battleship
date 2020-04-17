@@ -106,7 +106,7 @@ namespace BattleshipVB
 
             _human = new Player(_theGame);
 
-            // AddHandler _human.PlayerGrid.Changed, AddressOf GridChanged
+            AddHandler _human.PlayerGrid.Changed, AddressOf GridChanged;
             _ai.PlayerGrid.Changed += GridChanged;
             _theGame.AttackCompleted += AttackCompleted;
             AddNewState(GameState.Deploying);
@@ -118,7 +118,7 @@ namespace BattleshipVB
 
         private static void EndGame()
         {
-            // RemoveHandler _human.PlayerGrid.Changed, AddressOf GridChanged
+            RemoveHandler _human.PlayerGrid.Changed, AddressOf GridChanged;
             _ai.PlayerGrid.Changed -= GridChanged;
             _theGame.AttackCompleted -= AttackCompleted;
         }
